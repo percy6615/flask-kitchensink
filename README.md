@@ -12,3 +12,4 @@ $ pip install -r requirements.txt
 
 $ python app.py
 ```
+$from flask_cache import make_template_fragment_key
